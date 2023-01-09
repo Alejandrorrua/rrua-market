@@ -1,2 +1,2 @@
-# rrua-market
+# itbm-market
 Proyecto para crear una API con Spring
